@@ -1,0 +1,15 @@
+{
+  "name": "star-api",
+  "version": "1.0.0",
+  "description": "building the star api in node.js with mongodb ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcelo Becker",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.0"
+  }
+}
